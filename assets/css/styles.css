@@ -1,0 +1,35 @@
+@media (min-width:1400px) {
+  .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    max-width: 1320px;
+  }
+}
+
+a {
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.g-60 {
+  gap: 50px;
+}
+
+.h-fit {
+  height: fit-content;
+}
+
+.p-20 {
+  padding: 20px;
+}
+
+.g-md-60 {
+  column-gap: 60px;
+  row-gap: 60px;
+}
+
+.p-40 {
+  padding: 40px;
+}
+
